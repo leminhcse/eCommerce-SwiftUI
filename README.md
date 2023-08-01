@@ -6,7 +6,7 @@ eCommerce iOS app UI using SwiftUI
 
 ## Screenshots
 
-<img src="row/preview.png">
+<img src="row/preview.png" height="400" width="200">
 
 ## Features
 
